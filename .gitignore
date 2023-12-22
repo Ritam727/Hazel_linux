@@ -1,3 +1,5 @@
-Sandbox/main
+Engine/vendor/*
+
+main
 *.so
 .vscode
