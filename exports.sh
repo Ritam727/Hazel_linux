@@ -1,0 +1,1 @@
+export LD_LIBRARY_PATH=$(pwd)/Engine/src:"$LD_LIBRARY_PATH"
